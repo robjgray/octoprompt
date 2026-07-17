@@ -1,2 +1,2 @@
-# octoprompt
+# promptopus
 prompts and evals
